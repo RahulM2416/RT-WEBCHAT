@@ -11,3 +11,11 @@
 ![Screenshot01](https://github.com/RahulM2416/RT-WEBCHAT/blob/main/frontend/public/wc3.png)
 
 
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/RahulM2416/RT-WebChat.git
+cd RT-WebChat
+```
