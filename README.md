@@ -19,3 +19,15 @@
 git clone https://github.com/RahulM2416/RT-WebChat.git
 cd RT-WebChat
 ```
+### 2️⃣ Backend Setup
+```bash
+cd backend
+npm install
+npm start
+```
+### 3️⃣ Frontend Setup
+```bash
+cd frontend
+npm install
+npm start
+```
