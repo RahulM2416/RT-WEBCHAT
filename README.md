@@ -9,12 +9,6 @@
 
 ![Made with Love](https://img.shields.io/badge/Made%20By-Rahul%20M-blueviolet)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/RahulM2416/RT-WebChat)
-![GitHub stars](https://img.shields.io/github/stars/RahulM2416/RT-WebChat?style=social)
-![GitHub forks](https://img.shields.io/github/forks/RahulM2416/RT-WebChat?style=social)
-![GitHub issues](https://img.shields.io/github/issues/RahulM2416/RT-WebChat)
-![License](https://img.shields.io/github/license/RahulM2416/RT-WebChat)
-
 ## 📸 Screenshots
 ### Screenshot 01 
 ![Screenshot01](https://github.com/RahulM2416/RT-WEBCHAT/blob/main/frontend/public/wc1.png)
@@ -54,3 +48,10 @@ npm run dev
 - Messages are sent and received instantly.
 
 - All connected users receive messages in real time.
+
+  ---
+  ![GitHub repo size](https://img.shields.io/github/repo-size/RahulM2416/RT-WebChat)
+![GitHub stars](https://img.shields.io/github/stars/RahulM2416/RT-WebChat?style=social)
+![GitHub forks](https://img.shields.io/github/forks/RahulM2416/RT-WebChat?style=social)
+![GitHub issues](https://img.shields.io/github/issues/RahulM2416/RT-WebChat)
+![License](https://img.shields.io/github/license/RahulM2416/RT-WebChat)
